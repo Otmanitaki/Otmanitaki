@@ -3,14 +3,8 @@
 <h2>👨‍💻 Here is my IT Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-- <b>Active Directory</b>
-
+  - [Azure lab AD identity management](https://github.com/Otmanitaki/Azure-lab-AD-identity-management)
+  - [ITSM Lifecycle with osTicket](https://github.com/Otmanitaki/ITSM-Lifecycle-with-osTicket)
 
 <h2>🤳Connect with me:</h2>
 https://www.linkedin.com/in/taqiyeddine-otmani-145b3b302
