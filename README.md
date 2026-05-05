@@ -3,9 +3,10 @@
 <h2>👨‍💻 Here is my IT Projects:</h2>
 
   - [Azure lab AD identity management](https://github.com/Otmanitaki/Azure-lab-AD-identity-management)
+  - [Enterprise M365 Administration & Endpoint Support](https://github.com/Otmanitaki/M365-Enterprise-Identity-Network-Hardening)
+  - [Azure-Network-Security-and-Firewall-Hardening](https://github.com/Otmanitaki/Azure-Network-Security-and-Firewall-Hardening)
   - [ITSM Lifecycle with osTicket](https://github.com/Otmanitaki/ITSM-Lifecycle-with-osTicket)
   - [Network File Sharing And Security Permissions](https://github.com/Otmanitaki/Network-File-Shares-And-Security-Permissions)
-  - [Azure-Network-Security-and-Firewall-Hardening](https://github.com/Otmanitaki/Azure-Network-Security-and-Firewall-Hardening)
 
 
 <h2>🤳Connect with me:</h2>
